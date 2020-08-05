@@ -23,7 +23,7 @@ $ pkg install git -y
 
 ```
 ```
-$ git clone 
+$ git clone https://github.com/Expert-Hacker/Follow-Me.git
 ```
 ```
 $ cd Follow-Me
