@@ -32,7 +32,7 @@ $ cd Follow-Me
 $ bash setup.sh
 ```
 ```
-$ bash followup.sh
+$ bash followme.sh
 ```
 ```
 ```
